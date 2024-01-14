@@ -1,5 +1,7 @@
 ### Hi there , I'm Durga Yamini👋
 
+> I’m a software engineer with working experience in leading product-based companies. I have honed my skills in a variety of technologies, from front-end and backend languages and frameworks.
+> 
 <!--
 **Yamini-Durga/Yamini-Durga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
