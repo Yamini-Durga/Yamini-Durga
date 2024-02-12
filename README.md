@@ -14,10 +14,11 @@
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   <br>
-  <span>C#</span><span>&nbsp;</span>
-  <span>Git</span><span>&nbsp;</span>
-  <span>Azure</span><span>&nbsp;</span>
-  <span>Kafka</span><span>&nbsp;</span>
+  <br>
+  <span><strong>C#</strong></span><span>&nbsp;</span>
+  <span><strong>Git</strong></span><span>&nbsp;</span>
+  <span><strong>Azure</strong></span><span>&nbsp;</span>
+  <span><strong>Kafka</strong></span><span>&nbsp;</span>
 </p>
 <!--
 **Yamini-Durga/Yamini-Durga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
